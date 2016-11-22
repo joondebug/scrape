@@ -1,0 +1,24 @@
+C:\Users\kevinl\AppData\Local\Temporary Projects\scrape\bin\Debug\scrape.exe.config
+C:\Users\kevinl\AppData\Local\Temporary Projects\scrape\obj\Debug\scrape.csprojResolveAssemblyReference.cache
+C:\Users\kevinl\AppData\Local\Temporary Projects\scrape\bin\Debug\scrape.exe
+C:\Users\kevinl\AppData\Local\Temporary Projects\scrape\bin\Debug\scrape.pdb
+C:\Users\kevinl\AppData\Local\Temporary Projects\scrape\obj\Debug\scrape.exe
+C:\Users\kevinl\AppData\Local\Temporary Projects\scrape\obj\Debug\scrape.pdb
+C:\Users\kevinl\Documents\_projects\scrape\scrape\bin\Debug\scrape.exe.config
+C:\Users\kevinl\Documents\_projects\scrape\scrape\obj\Debug\scrape.exe
+C:\Users\kevinl\Documents\_projects\scrape\scrape\obj\Debug\scrape.pdb
+C:\Users\kevinl\Documents\_projects\scrape\scrape\bin\Debug\scrape.exe
+C:\Users\kevinl\Documents\_projects\scrape\scrape\bin\Debug\scrape.pdb
+C:\Users\kevinl\Documents\_projects\scrape\scrape\obj\Debug\scrape.csprojResolveAssemblyReference.cache
+C:\Users\kevinl\Documents\_projects\scrape\scrape\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kevinl\Documents\_projects\scrape\scrape\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kevinl\Documents\_projects\scrape\scrape\bin\Debug\HtmlAgilityPack.xml
+C:\Users\joon\Documents\_projects\scrape\scrape\bin\Debug\scrape.exe.config
+C:\Users\joon\Documents\_projects\scrape\scrape\obj\Debug\scrape.exe
+C:\Users\joon\Documents\_projects\scrape\scrape\obj\Debug\scrape.pdb
+C:\Users\joon\Documents\_projects\scrape\scrape\bin\Debug\scrape.exe
+C:\Users\joon\Documents\_projects\scrape\scrape\bin\Debug\scrape.pdb
+C:\Users\joon\Documents\_projects\scrape\scrape\bin\Debug\HtmlAgilityPack.dll
+C:\Users\joon\Documents\_projects\scrape\scrape\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\joon\Documents\_projects\scrape\scrape\bin\Debug\HtmlAgilityPack.xml
+C:\Users\joon\Documents\_projects\scrape\scrape\obj\Debug\scrape.csprojResolveAssemblyReference.cache
